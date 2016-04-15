@@ -1,0 +1,42 @@
+{
+    "status": "ok",
+    "date": "2016-04-15",
+    "commands": "",
+    "gpg": false,
+    "devices": [
+        {
+            "files": [
+                {
+                    "url": "https://raw.githubusercontent.com/nitrogen-devs/multirom/mm6.0/geehrc/multirom-geehrc.zip",
+                    "version": "33",
+                    "type": "multirom",
+                    "size": 3641492,
+                    "md5": "3BCE97E11C3454C6BABECB6B4989170A"
+                },
+                {
+                    "url": "https://github.com/nitrogen-devs/multirom/raw/mm6.0/geehrc/recovery.img",
+                    "version": "3.0.2-0",
+                    "type": "recovery",
+                    "size": 14391296,
+                    "md5": "FCF7A59467BA0DB03706BA715A2CB97A"
+                },
+                {
+                    "url": "https://github.com/nitrogen-devs/android_NitrogenEx_zips/raw/master/3.4.0.NitrogenEX.geehrc.2.8.zip",
+                    "version": "Nitrogen Kernel 2.8 for 6.0.1",
+                    "type": "kernel",
+                    "size": 4538218,
+                    "md5": "CB546CFBEA6322291E7C4374085F523C"
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/nitrogen-devs/multirom/mm6.0/geehrc/multirom_uninstaller.zip",
+                    "version": "1",
+                    "type": "uninstaller",
+                    "size": 1566810,
+                    "md5": "61719500D0D3E36CA64CEC0D197745CB"
+                }
+            ],
+            "changelogs": [],
+            "name": "e975"
+        }
+    ]
+}
