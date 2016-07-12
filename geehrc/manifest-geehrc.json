@@ -15,21 +15,21 @@
                 },
                 {
                     "url": "https://github.com/nitrogen-devs/multirom/raw/mm6.0/geehrc/recovery.img",
-                    "version": "3.0.2-0",
+                    "version": "3-0-2-0",
                     "type": "recovery",
                     "size": 14391296,
                     "md5": "FCF7A59467BA0DB03706BA715A2CB97A"
                 },
                 {
                     "url": "https://github.com/nitrogen-devs/android_NitrogenEx_zips/raw/master/3.4.0.NitrogenEX.geehrc.3.0.zip",
-                    "version": "Nitrogen Kernel 3.0 for 6.0.1",
+                    "version": "3-0",
                     "type": "kernel",
                     "size": 8126464,
                     "md5": "23836ED295D7023976FBD9B50634F9D8"
                 },
                 {
                     "url": "https://raw.githubusercontent.com/nitrogen-devs/multirom/mm6.0/geehrc/multirom_uninstaller.zip",
-                    "version": "1",
+                    "version": "",
                     "type": "uninstaller",
                     "size": 1566810,
                     "md5": "61719500D0D3E36CA64CEC0D197745CB"
